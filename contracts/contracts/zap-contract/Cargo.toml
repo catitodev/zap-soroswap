@@ -1,0 +1,18 @@
+[package]
+name = "zap-contract"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.81"
+authors = ["catitodev"]
+license = "Apache-2.0"
+description = "Zap-in/Zap-out liquidity automation for Soroswap on Stellar"
+repository = "https://github.com/catitodev/zap-soroswap"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+soroban-sdk = { workspace = true }
+
+[dev-dependencies]
+soroban-sdk = { workspace = true, features = ["testutils"] }
