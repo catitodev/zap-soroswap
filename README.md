@@ -237,3 +237,25 @@ Developed with ⚡ by **[catitodev](https://github.com/catitodev)**
 
 </div>
 
+
+---
+
+## 🚀 Deploy Info
+
+| Network | Testnet |
+|:--------|:--------|
+| **Contract ID** | `CASWRPDU7ZY3FKXPHUDYGFNPDZX6FJBLPHTZOOLF7PACFRZZ6JCRLG3Z` |
+| **Soroswap Router** | `CCJUD55AG6W5HAI5LRVNKAE5WDP5XGZBUDS5WNTIVDU7O264UZZE7BRD` |
+| **Admin** | `GBKIGI6OAERZFIZPMOOUSR7VA7IY3FB57YE6W3OUS36QXE4KZYKMSRBK` |
+| **Max Slippage** | 1% |
+| **Min Amount** | 1000 |
+
+[View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CASWRPDU7ZY3FKXPHUDYGFNPDZX6FJBLPHTZOOLF7PACFRZZ6JCRLG3Z)
+
+---
+
+## 🖼️ Frontend Preview
+
+![Zap Soroswap Interface](docs/screenshots/frontend-preview.png)
+
+*Minimalist editorial design — Space Grotesk + Playfair Display typography*
