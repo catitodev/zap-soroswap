@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Space Grotesk', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  
+  --color-void: #0a0a0a;
+  --color-ink: #1a1a1a;
+  --color-stone: #2a2a2a;
+  --color-ash: #8a8a8a;
+  --color-mist: #e5e5e5;
+  --color-bone: #f5f5f5;
+  --color-gold: #c9a96e;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-void);
+  color: var(--color-mist);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-void);
+}
